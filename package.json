@@ -1,0 +1,25 @@
+{
+  "name": "cli_addition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaBabenko/CLI_addition.git"
+  },
+  "keywords": [],
+  "author": "Vita_Babenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaBabenko/CLI_addition/issues"
+  },
+  "homepage": "https://github.com/VitaBabenko/CLI_addition#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
