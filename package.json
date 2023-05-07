@@ -1,5 +1,5 @@
 {
-  "name": "cli_addition",
+  "name": "cli_application",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VitaBabenko/CLI_addition.git"
+    "url": "git+https://github.com/VitaBabenko/CLI_application.git"
   },
   "keywords": [],
   "author": "Vita_Babenko",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VitaBabenko/CLI_addition/issues"
+    "url": "https://github.com/VitaBabenko/CLI_application/issues"
   },
-  "homepage": "https://github.com/VitaBabenko/CLI_addition#readme",
+  "homepage": "https://github.com/VitaBabenko/CLI_application#readme",
   "devDependencies": {
     "nodemon": "^2.0.22"
   }
